@@ -14,7 +14,7 @@ joblib==0.16.0
 Mako==1.0.8
 MarkupSafe==1.1.1
 nltk==3.2
-numpy==1.19.1
+numpy==1.22.0
 pandas==1.1.0
 python-dateutil==2.8.0
 python-editor==1.0.4
